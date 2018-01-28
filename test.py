@@ -45,3 +45,6 @@ print(leng) #gets the length
 
 for thing in data: #this auto gets evey bit of data and puts it to thing for easy output
     print(thing)
+
+print("Hello world!")
+
